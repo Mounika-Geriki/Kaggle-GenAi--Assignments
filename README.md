@@ -70,4 +70,4 @@ Gen AI App Starter Pack
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Note: This repository contains my personal work from the course. All official course materials are the property of Google.
+Note: This repository contains my personal work from the course. All official course materials are the property of Google.
