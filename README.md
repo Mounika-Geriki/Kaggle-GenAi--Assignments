@@ -43,20 +43,20 @@ vExplored domain adaptation techniques
 ## 💻 Key Projects
 This repository includes:
 
-**RAG Question-Answering System:** A retrieval-augmented generation system that answers questions based on custom documents
-**SQL Assistant:** An LLM-powered tool that interacts with databases through function calling
-**Agentic Ordering System:** A LangGraph implementation that simulates an AI agent taking orders in a café
-**Custom Gemini Model:** A fine-tuned version of Gemini for specialized tasks
-**Search-Enhanced LLM:** Implementation that grounds LLM responses with real-world data from Google Search
+* **RAG Question-Answering System:** A retrieval-augmented generation system that answers questions based on custom documents
+* **SQL Assistant:** An LLM-powered tool that interacts with databases through function calling
+* **Agentic Ordering System:** A LangGraph implementation that simulates an AI agent taking orders in a café
+* **Custom Gemini Model:** A fine-tuned version of Gemini for specialized tasks
+* **Search-Enhanced LLM:** Implementation that grounds LLM responses with real-world data from Google Search
 
 ## 🛠️ Technologies Used
 
-* Google Gemini API: For LLM interactions and generation
-* Vertex AI: Cloud platform for model training and deployment
-* LangGraph: For building complex agent workflows
-* Vector Databases: For efficient retrieval of semantic information
-* Keras/TensorFlow: For neural network implementations
-* Kaggle Notebooks: For running code labs and experiments
+* **Google Gemini API:** For LLM interactions and generation
+* **Vertex AI:** Cloud platform for model training and deployment
+* **LangGraph:** For building complex agent workflows
+* **Vector Databases:** For efficient retrieval of semantic information
+* **Keras/TensorFlow:** For neural network implementations
+* **Kaggle Notebooks:** For running code labs and experiments
 
 ## 📝 Notes
 The course was led by Google experts including Anant Nawalgaria, Mark McDonald, Paige Bailey, and many other contributors. All code labs were completed through Kaggle and AI Studio.
